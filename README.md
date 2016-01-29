@@ -1,7 +1,7 @@
 # GPSNav
 This project was part of my groups semester project, with the theme "Microprocessor Based Systems". Together with a Mechanical Engineering group we (Electronics and Computer Engineering students) attempted to developed an autonomous bale collector.
 
-We split the autonomous part into multiple smaller prototypes, the navigation between the bales and drop-off location was a single prototype.
+We split the autonomous part into multiple smaller prototypes, the navigation between the bales and drop-off location was a single prototype. This repository focuses on the navigation algorithm.
 ## Components
 * Adafruit Ultimate GPS Breakout Board
 * HMC5883L Magnetometer
