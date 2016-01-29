@@ -52,6 +52,7 @@ The formula for calculating the distance between two coordinates and the heading
 
 
 ![Flow Chart](gps_process.jpg)
+![Wiring Diagram](GPS-Compass-wiring_bb.jpg)
 
 #### Compass Calibration
 To calibrate and obtain a heading value from the compass, the code written by @helscream was used. He wrote an excellent program that calibrates the Magnetometer (This being the compass.h file and compass.cpp)
